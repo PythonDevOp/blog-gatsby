@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-  repo: your-username/your-repo-name
+  name: github
+  repo: PythonDevOp/blog-gatsby
 
 media_folder: static/assets
 public_folder: assets
